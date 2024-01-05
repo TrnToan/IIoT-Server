@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wriIALNkW6o2vZl3HTPYQd0X/XcjFWVOlZ5MVdEpZfA=",
+  "Source": "MagicMirrorIotServer.Api",
+  "BasePath": "_content/MagicMirrorIotServer.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

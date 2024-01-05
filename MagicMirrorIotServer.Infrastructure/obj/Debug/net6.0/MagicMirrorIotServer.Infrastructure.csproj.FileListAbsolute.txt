@@ -1,0 +1,15 @@
+D:\Visual Studio PJs\Viam-IoT-Server\MagicMirrorIotServer.Infrastructure\bin\Debug\net6.0\MagicMirrorIotServer.Infrastructure.deps.json
+D:\Visual Studio PJs\Viam-IoT-Server\MagicMirrorIotServer.Infrastructure\bin\Debug\net6.0\MagicMirrorIotServer.Infrastructure.dll
+D:\Visual Studio PJs\Viam-IoT-Server\MagicMirrorIotServer.Infrastructure\bin\Debug\net6.0\MagicMirrorIotServer.Infrastructure.pdb
+D:\Visual Studio PJs\Viam-IoT-Server\MagicMirrorIotServer.Infrastructure\bin\Debug\net6.0\MagicMirrorIotServer.Domain.dll
+D:\Visual Studio PJs\Viam-IoT-Server\MagicMirrorIotServer.Infrastructure\bin\Debug\net6.0\MagicMirrorIotServer.Domain.pdb
+D:\Visual Studio PJs\Viam-IoT-Server\MagicMirrorIotServer.Infrastructure\obj\Debug\net6.0\MagicMirrorIotServer.Infrastructure.csproj.AssemblyReference.cache
+D:\Visual Studio PJs\Viam-IoT-Server\MagicMirrorIotServer.Infrastructure\obj\Debug\net6.0\MagicMirrorIotServer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio PJs\Viam-IoT-Server\MagicMirrorIotServer.Infrastructure\obj\Debug\net6.0\MagicMirrorIotServer.Infrastructure.AssemblyInfoInputs.cache
+D:\Visual Studio PJs\Viam-IoT-Server\MagicMirrorIotServer.Infrastructure\obj\Debug\net6.0\MagicMirrorIotServer.Infrastructure.AssemblyInfo.cs
+D:\Visual Studio PJs\Viam-IoT-Server\MagicMirrorIotServer.Infrastructure\obj\Debug\net6.0\MagicMirrorIotServer.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Visual Studio PJs\Viam-IoT-Server\MagicMirrorIotServer.Infrastructure\obj\Debug\net6.0\MagicMirrorIotServer.Infrastructure.csproj.CopyComplete
+D:\Visual Studio PJs\Viam-IoT-Server\MagicMirrorIotServer.Infrastructure\obj\Debug\net6.0\MagicMirrorIotServer.Infrastructure.dll
+D:\Visual Studio PJs\Viam-IoT-Server\MagicMirrorIotServer.Infrastructure\obj\Debug\net6.0\refint\MagicMirrorIotServer.Infrastructure.dll
+D:\Visual Studio PJs\Viam-IoT-Server\MagicMirrorIotServer.Infrastructure\obj\Debug\net6.0\MagicMirrorIotServer.Infrastructure.pdb
+D:\Visual Studio PJs\Viam-IoT-Server\MagicMirrorIotServer.Infrastructure\obj\Debug\net6.0\ref\MagicMirrorIotServer.Infrastructure.dll
